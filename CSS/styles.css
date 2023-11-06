@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: slategray;
+}
+
+.col-4 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.lorem {
+    font-family: 'Love Ya Like A Sister', cursive;
+}
